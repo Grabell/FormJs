@@ -1,0 +1,38 @@
+/*!INICIO - ESTILOS:  MODAL CREATE NEW MOVIE*/
+
+.colorButton {
+  background-color: #cad166;
+  color: black;
+  text-decoration: solid;
+}
+
+.colorButton:hover {
+  background-color: #cad166;
+  color: black;
+}
+
+.campos {
+  width: 100%;
+}
+
+.styleForm {
+  background-color: black;
+  color: white;
+}
+
+
+/*EFECTO INPUT FORM CREAR NUEVA PELI*/
+
+.efectoInput {
+  color: red;
+}
+
+html {
+  background: url(/img/fondoImg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+
+/*!FIN - ESTILOS:  MODAL CREATE NEW MOVIE*/
